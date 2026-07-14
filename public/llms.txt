@@ -1,0 +1,77 @@
+# אקוגן - פתרונות לגינה — Generative Engine Optimization Map
+
+> אקוגן, מבית אלגו השקיה, הינו המותג הותיק והמוביל בישראל של מוצרי דישון וההדברה למגזר הביתי והמקצועי ...
+
+---
+
+## Pages
+
+### בית
+https://-356d1cc8.zappy5.app
+אקוגן מבית אלגו השקיה מציע לכם את המגוון המוביל בישראל של דשנים וחומרי הדברה איכותיים. הפכו כל גינה לנווה מדבר פורח עם פתרונות מקצועיים וקלים לשימוש. היכנסו עכשיו ותתחילו לטפח!
+
+### מדיניות פרטיות
+https://-356d1cc8.zappy5.app
+אקוגן מבית אלגו השקיה מציע לכם את המגוון המוביל בישראל של דשנים וחומרי הדברה איכותיים. הפכו כל גינה לנווה מדבר פורח עם פתרונות מקצועיים וקלים לשימוש. היכנסו עכשיו ותתחילו לטפח!
+
+### Products
+https://-356d1cc8.zappy5.app/products
+המוצרים שלנו - אקוגן - פתרונות לגינה
+
+### Product Detail
+https://-356d1cc8.zappy5.app/product/:slug
+פרטי המוצר - אקוגן - פתרונות לגינה
+
+### Category
+https://-356d1cc8.zappy5.app/category/:slug
+מוצרים - אקוגן - פתרונות לגינה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-356d1cc8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-356d1cc8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-356d1cc8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אקוגן - פתרונות לגינה
+אקוגן, מבית אלגו השקיה, הינו המותג הותיק והמוביל בישראל של מוצרי דישון וההדברה למגזר הביתי והמקצועי ...
+
+## Services/Products
+- מוצרי דישון
+- מוצרי הדברה
+
+## Target Audience
+- Customers looking for מוצרי דישון and מוצרי הדברה
+- קונים מוצרי דישון
+- צרכני מוצרי הדברה
+- מקצוענים בתחום הגינון והנוף
+
+## Industry
+Business / Consulting
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-356d1cc8.zappy5.app/sitemap.xml
+- Robots: https://-356d1cc8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-356d1cc8.zappy5.app/llms-full.txt
+- Products (JSON): https://-356d1cc8.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-356d1cc8.zappy5.app/product-feed.xml
